@@ -148,4 +148,10 @@ This function checks every integer between 2 and the input value and returns "tr
     12.
 
 14. Iterative Big O
-    
+    1. Linear
+    2. Linear
+    3. Linear
+    4. Linear
+    5. Linear
+    6. Linear
+    7. Linear
